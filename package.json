@@ -1,6 +1,6 @@
 {
   "name": "kuranuxt",
-  "private": true,
+  "private": false,
   "type": "module",
   "scripts": {
     "build": "nuxt build",
