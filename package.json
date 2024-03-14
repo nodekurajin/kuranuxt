@@ -22,6 +22,11 @@
   "keywords": [
     "nuxt"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodekurajin/kuranuxt.git"
+  },
+  "homepage": "https://github.com/nodekurajin/nuxt#readme",
   "author": "nodekurajin",
   "license": "ISC"
 }
