@@ -26,7 +26,10 @@
     "type": "git",
     "url": "git+https://github.com/nodekurajin/kuranuxt.git"
   },
-  "homepage": "https://github.com/nodekurajin/nuxt#readme",
+  "homepage": "https://github.com/nodekurajin/kuranuxt#readme",
+  "bugs": {
+    "url": "https://github.com/nodekurajin/kurajinuxt/issues"
+  },
   "author": "nodekurajin",
   "license": "ISC"
 }
