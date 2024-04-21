@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nodekurajin/jatimulyoteteh": "^1.1.6",
     "@nuxt/ui": "^2.14.2",
     "aingtea": "^1.0.5",
     "anakketiga": "^1.0.0",
